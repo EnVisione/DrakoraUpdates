@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "revision": 2026101901,
+  "domains": [
+    "drakora.org",
+    "drakora-network.net"
+  ],
+  "addresses": [
+    {
+      "host": "163.123.60.26",
+      "ports": [
+        25565,
+        25570
+      ]
+    },
+    {
+      "host": "192.168.1.242",
+      "ports": [
+        25565,
+        25570
+      ]
+    },
+    {
+      "host": "185.206.148.155",
+      "ports": [
+        25585
+      ]
+    },
+    {
+      "host": "213.170.135.110",
+      "ports": [
+        25598
+      ]
+    },
+    {
+      "host": "149.40.59.139",
+      "ports": [
+        19935
+      ]
+    },
+    {
+      "host": "195.60.166.153",
+      "ports": [
+        25590
+      ]
+    },
+    {
+      "host": "204.74.237.153",
+      "ports": [
+        25583
+      ]
+    },
+    {
+      "host": "64.40.9.108",
+      "ports": [
+        25586
+      ]
+    },
+    {
+      "host": "49.12.172.44",
+      "ports": [
+        25575
+      ]
+    }
+  ],
+  "configurationSources": [
+    "https://raw.githubusercontent.com/EnVisione/DrakoraUpdates/main/network.signed.json"
+  ],
+  "downloadRoots": [
+    "https://github.com/EnVisione/DrakoraUpdates/releases/download/"
+  ],
+  "curseforgeProject": "https://www.curseforge.com/minecraft/mc-mods/progressivevelocity",
+  "releases": [],
+  "downloadRedirectHosts": [
+    "release-assets.githubusercontent.com",
+    "objects.githubusercontent.com"
+  ]
+}
